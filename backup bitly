@@ -1878,6 +1878,9 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=1008/
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/Action.au.png" group-title="NEWS",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="NEWS",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
@@ -1923,6 +1926,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2510
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/105_144.png" group-title="DISC",Crime & Investigation
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2111
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default.mpd
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="DISC",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/500
@@ -1939,6 +1947,17 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2502/default.mpd
 #EXTINF:-1 tvg-logo="" group-title="DISC",TRAVEL HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheDesignNetwork_290x290.png?raw=true" group-title="DISC",The Design Network
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAFVFamilyChannel_203x203.png?raw=true" group-title="DISC",AFV Family
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="DISC",Unidentified TV
+https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
+
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="DISC",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="MOVIE",Fox Action Movies 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
