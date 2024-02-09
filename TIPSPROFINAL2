@@ -4196,8 +4196,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest?cb=20210408125347",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTM3U
-
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1, group-title="BRUNEI" tvg-logo="https://telegra.ph/file/741d929076ca807229e8b.jpg",RTB SUKMAINDERA
