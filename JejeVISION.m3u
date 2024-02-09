@@ -840,6 +840,26 @@ http://103.113.116.150:25461/mtm1/12345/147
 #EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",BeinSport 3
 http://103.113.116.150:25461/mtm1/12345/148
 
+#EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroArena.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Astro_Arena.png/200px-Astro_Arena.png",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroArena2.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Astro_Arena_2.png/220px-Astro_Arena_2.png",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5057/
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroArenaBola.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Astro_Arena_Bola.png/200px-Astro_Arena_Bola.png",Astro Arena Bola
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/arenabola/
+https://live.aqfadtv.xyz/sooka/arenabola/index.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroArenaBola2.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Astro_Arena_Bola_2.png/200px-Astro_Arena_Bola_2.png",Astro Arena Bola 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/arenabola2/
+https://live.aqfadtv.xyz/sooka/arenabola2/index.mpd
+
 #EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport
 http://103.113.116.150:25461/mtm1/12345/47
 
