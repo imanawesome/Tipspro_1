@@ -12744,7 +12744,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true" group-title="MOVIE", BAMBU
 https://bambu-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bambu-xumo/CDN/1920x1080_5055600/chunklist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="TV1" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
