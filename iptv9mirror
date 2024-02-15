@@ -764,7 +764,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChanne
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/FightSports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="GlobalTreker" tvg-name="NAT GEOGRAFHIK" tvg-logo="https://static.epg.best/id/NatGeo.id.png" group-title="KNOWLEDGE",NAT GEOGRAPHIC
+#EXTINF:-1 tvg-id="GlobalTrekker" tvg-name="NAT GEOGRAFHIK" tvg-logo="https://static.epg.best/id/NatGeo.id.png" group-title="KNOWLEDGE",NAT GEOGRAPHIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
@@ -776,7 +776,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5097/default.mpd
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY" tvg-logo="https://static.epg.best/th/Discovery.th.png" group-title="KNOWLEDGE",DISCOVERY
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="DISCOVERY" tvg-logo="https://static.epg.best/th/Discovery.th.png" group-title="KNOWLEDGE",DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
@@ -826,10 +826,11 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="channelv" tvg-name="CHANNEL V" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeJNr4HomgiygZw_c_KE4Q00gElnqXROppw&usqp=CAU" group-title="MUSIC",CHANNEL V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://www.mncchannels.com/files/logo/1579059453_logo_music%20tv.png" group-title="MUSIC",MUSIC TV
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/MusicChannel
+https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="INDON",ANTV
