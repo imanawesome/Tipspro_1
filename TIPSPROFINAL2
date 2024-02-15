@@ -11622,6 +11622,7 @@ http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?tok
 http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=Live-TV™.live
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="SPORT",UNIVISION SPORTS ULTIMO
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
 
@@ -11892,7 +11893,12 @@ https://vcdnjt.useetv.com/dass/14/rodjatv/chunklist_w449620283_b684100_sleng.m3u
 #EXTINF:-1 tvg-id="" group-title="RELIGI (USEETV)",Tawaf TV
 https://vcdnjt.useetv.com/dass/14/tawaftv/chunklist_w386254605_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="RELIGI (USEETV)",TV9 NU
-https://vcdnjt.useetv.com/dass/14/tv9/chunklist_w1540246434_b684100_sleng.m3u8 
+https://vcdnjt.useetv.com/dass/14/tv9/chunklist_w1540246434_b684100_sleng.m3u8
+
+
+
+
+ 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="SG",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12080,7 +12086,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="NEWS",Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="NEWS",BBC World News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12462,6 +12468,7 @@ https://live.aqfadtv.xyz/sooka/supersport3/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2506/
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default.mpd
  
+
 #EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
