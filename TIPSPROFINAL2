@@ -3165,14 +3165,14 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="TV1" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/tv1.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/711
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/tv2.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5027
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/tv3.png",TV3
@@ -3228,8 +3228,8 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/okey.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5072/
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
 #EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS
@@ -3253,7 +3253,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default.mpd
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Malaysia",Filem Mantap
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="x.astro" group-logo="https://telegra.ph/file/58ac12291c653b68eb222.png" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="Malaysia",Drama Hebat
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="Malaysia",Drama Hebat
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Malaysia",Drama Hotpot
@@ -3301,7 +3301,7 @@ https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/astroawani.m3u8
 # https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5025/
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
 #EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-5.png",Channel 5 
@@ -9439,14 +9439,14 @@ https://linear07-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="TV1" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/711
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5027
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
@@ -9491,8 +9491,8 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5072/
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
 #EXTINF:-1 tvg-id="AstroRania" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura
@@ -9652,7 +9652,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/astroawani.m3u8
 # https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 # #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5025/
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
 #EXTINF:-1 tvg-id="BERNAMA" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA 
@@ -9666,8 +9666,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-id="CNA" group-title="News" tvg-logo=https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=605/
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default.mpd
 
 #EXTINF:-1 tvg-id="BloombergTV" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg 
@@ -9678,14 +9678,14 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5019/
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nnBhYfAvuZy2ktKWVHBJTg", "kid":"/GbvDuNbW6Y53A4TxfipEA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
 
 #EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=9984/
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E7uCnOSDbM90BxxFmTl4xQ", "kid":"ft871ZDPM39yGi5b7DYVEA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
 
 #EXTINF:-1 tvg-id="France24" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1920px-FRANCE_24_logo.svg.png",France24
@@ -9710,8 +9710,8 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-# #KODIPROP:inputstream.adaptive.license_type=clearkey
-# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2110/
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
 
 #EXTINF:-1 tvg-id="Arirang" group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Arirang-TV-Logo.svg",Arirang TV
