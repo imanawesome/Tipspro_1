@@ -11,6 +11,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 # #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
+#EXTINF:-6 xmltv-id="TV3" tvg-id="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" tvg-chno="3" channel-id="3" group-title="Malaysia",TV3 (backup) (BACKUP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+
 #EXTINF:-1 tvg-id="TV3" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
@@ -446,7 +451,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
-#EXTINF:-1 tvg-name="304" tvg-id="HBO Family1" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Malaysia",HBO FAMILY
+#EXTINF:-1 tvg-name="304" tvg-id="HBOFamily1" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Malaysia",HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default.mpd
